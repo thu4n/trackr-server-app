@@ -1,0 +1,143 @@
+[
+  {
+    "LocationName": "Kho Thanh Xuân - Hà Nội",
+    "Status": "UNPAID",
+    "Price": 5000,
+    "Description": "Bút bi Thiên Long",
+    "Picture": "https://gift.adcbook.net.vn/web/image/product.template/74802/image_1920?unique=ce02538"
+  },
+  {
+    "LocationName": "Kho Củ Chi - TPHCM",
+    "Status": "READY_TO_SHIP",
+    "Price": 25000,
+    "Description": "Sổ Klong",
+    "Picture": "https://klong.com.vn/image/cache/catalog/So%20caro/544%20combo-500x500.jpg"
+  },
+  {
+    "LocationName": "Cảng Quảng Châu - Trung Quốc",
+    "Status": "PROCESSED",
+    "Price": 30000,
+    "Description": "Bột giặt Omo",
+    "Picture": "https://u-shop.vn/images/thumbs/0012265_bot-giat-omo-comfort-tinh-dau-thom-ngat-ngay-53kg_510.png"
+  },
+  {
+    "LocationName": "Cảng hải quan Việt Nam",
+    "Status": "RETRY_SHIP",
+    "Price": 26000,
+    "Description": "Nước rửa chén Sunlight",
+    "Picture": "https://cdn.tgdd.vn/Products/Images/2387/76485/bhx/nuoc-rua-chen-sunlight-chanh-100-sach-nhanh-xa-bot-nhanh-rua-sach-dau-mo-can-367-lit-202210310932448593.jpg"
+  },
+  {
+    "LocationName": "Kho Nghĩa Ô - Trung Quốc",
+    "Status": "SHIPPED",
+    "Price": 24000,
+    "Description": "Nước tẩy rửa Vim",
+    "Picture": "https://cdn.tgdd.vn/Products/Images/2511/76924/bhx/nuoc-tay-bon-cau-nha-tam-vim-diet-khuan-900ml-202303251501206206.jpg"
+  },
+  {
+    "LocationName": "Kho Thâm Quyến - Trung Quốc",
+    "Status": "TO_CONFIRM_RECEIVE",
+    "Price": 16000,
+    "Description": "Nước lau sàn Sunlight",
+    "Picture": "https://bizweb.dktcdn.net/100/440/071/products/nuoc-lau-san-nha-sunlight-huong-hoa-lily-can-38kg-202107130911261281.jpg?v=1644983407193"
+  },
+  {
+    "LocationName": "Kho Đà Nẵng SOC - Đà Nẵng",
+    "Status": "IN_CANCEL",
+    "Price": 23500,
+    "Description": "Nước lau kính Gift",
+    "Picture": "https://thucphamsachkimgia.com/wp-content/uploads/2021/09/nuoc-lau-kinh-gift-580ml-nen-dep-xinh.jpg"
+  },
+  {
+    "LocationName": "Kho Cần Thơ - Cần Thơ",
+    "Status": "CANCELLED",
+    "Price": 8000,
+    "Description": "Bột baking soda",
+    "Picture": "https://product.hstatic.net/1000218626/product/2_ab23ad12d77f498cae856995ff2cab45.jpg"
+  },
+  {
+    "LocationName": "Kho Đống Đa - Hà Nội",
+    "Status": "TO_RETURN",
+    "Price": 15700,
+    "Description": "Khăn giấy lau bếp Anpa",
+    "Picture": "https://thinhphatcomputer.com/upload/sanpham/c5eafbffff88481a8962c4e5e64ae772.jpg"
+  },
+  {
+    "LocationName": "Kho Quang Trung - TPHCM",
+    "Status": "COMPLETED",
+    "Price": 560000,
+    "Description": "Thùng rác thông minh Eurogold",
+    "Picture": "https://kitchenstore.vn/wp-content/uploads/2020/04/Thung-rac-am-tu-EUROGOLD-E0103-1-1-768x768.jpg.webp"
+  },
+  {
+    "LocationName": "Kho Thanh Xuân - Hà Nội",
+    "Status": "UNPAID",
+    "Price": 5000,
+    "Description": "Bút bi Thiên Long",
+    "Picture": "https://gift.adcbook.net.vn/web/image/product.template/74802/image_1920?unique=ce02538"
+  },
+  {
+    "LocationName": "Kho Củ Chi - TPHCM",
+    "Status": "READY_TO_SHIP",
+    "Price": 50000,
+    "Description": "Sổ Klong",
+    "Picture": "https://klong.com.vn/image/cache/catalog/So%20caro/544%20combo-500x500.jpg"
+  },
+  {
+    "LocationName": "Cảng Quảng Châu - Trung Quốc",
+    "Status": "PROCESSED",
+    "Price": 30000,
+    "Description": "Bột giặt Omo",
+    "Picture": "https://u-shop.vn/images/thumbs/0012265_bot-giat-omo-comfort-tinh-dau-thom-ngat-ngay-53kg_510.png"
+  },
+  {
+    "LocationName": "Cảng hải quan Việt Nam",
+    "Status": "RETRY_SHIP",
+    "Price": 26000,
+    "Description": "Nước rửa chén Sunlight",
+    "Picture": "https://cdn.tgdd.vn/Products/Images/2387/76485/bhx/nuoc-rua-chen-sunlight-chanh-100-sach-nhanh-xa-bot-nhanh-rua-sach-dau-mo-can-367-lit-202210310932448593.jpg"
+  },
+  {
+    "LocationName": "Kho Nghĩa Ô - Trung Quốc",
+    "Status": "SHIPPED",
+    "Price": 24000,
+    "Description": "Nước tẩy rửa Vim",
+    "Picture": "https://cdn.tgdd.vn/Products/Images/2511/76924/bhx/nuoc-tay-bon-cau-nha-tam-vim-diet-khuan-900ml-202303251501206206.jpg"
+  },
+  {
+    "LocationName": "Kho Thâm Quyến - Trung Quốc",
+    "Status": "TO_CONFIRM_RECEIVE",
+    "Price": 16000,
+    "Description": "Nước lau sàn Sunlight",
+    "Picture": "https://bizweb.dktcdn.net/100/440/071/products/nuoc-lau-san-nha-sunlight-huong-hoa-lily-can-38kg-202107130911261281.jpg?v=1644983407193"
+  },
+  {
+    "LocationName": "Kho Đà Nẵng SOC - Đà Nẵng",
+    "Status": "IN_CANCEL",
+    "Price": 23500,
+    "Description": "Nước lau kính Gift",
+    "Picture": "https://thucphamsachkimgia.com/wp-content/uploads/2021/09/nuoc-lau-kinh-gift-580ml-nen-dep-xinh.jpg"
+  },
+  {
+    "LocationName": "Kho Cần Thơ - Cần Thơ",
+    "Status": "CANCELLED",
+    "Price": 8000,
+    "Description": "Bột baking soda",
+    "Picture": "https://product.hstatic.net/1000218626/product/2_ab23ad12d77f498cae856995ff2cab45.jpg"
+  },
+  {
+    "LocationName": "Kho Đống Đa - Hà Nội",
+    "Status": "TO_RETURN",
+    "Price": 15700,
+    "Description": "Khăn giấy lau bếp Anpa",
+    "Picture": "https://thinhphatcomputer.com/upload/sanpham/c5eafbffff88481a8962c4e5e64ae772.jpg"
+  },
+  {
+    "LocationName": "Kho Quang Trung - TPHCM",
+    "Status": "COMPLETED",
+    "Price": 560000,
+    "Description": "Thùng rác thông minh Eurogold",
+    "Picture": "https://kitchenstore.vn/wp-content/uploads/2020/04/Thung-rac-am-tu-EUROGOLD-E0103-1-1-768x768.jpg.webp"
+  }
+]
+

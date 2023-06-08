@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Quận 1",
+    "address": "2 Đ. Đinh Tiên Hoàng, Đa Kao, Quận 1,TPHCM",
+    "nearest_address": "Bưu điện Trung tâm Sài Gòn, 125 Công xã Paris, Bến Nghé, Quận 1,TPHCM"
+  },
+  {
+    "name": "Quận 2",
+    "address": "Vincom Mega Mall Thảo Điền, 159 Xa lộ Hà Nội, Thảo Điền, Quận 2,TPHCM",
+    "nearest_address": "Căn hộ CBD Premium, Tầng 3 Tòa nhà, 125 Đồng Văn Cống, Phường Thạnh Mỹ Lợi, Quận 2,TPHCM"
+  },
+  {
+    "name": "Quận 3",
+    "address": "212 Lý Chính Thắng, Phường 9, Quận 3, TPHCM",
+    "nearest_address": "209 Đ. Nam Kỳ Khởi Nghĩa, Võ Thị Sáu, Quận 3,TPHCM"
+  },
+  {
+    "name": "Quận 4",
+    "address": "122 Đ. Khánh Hội, Phường 4, Quận 4, TPHCM",
+    "nearest_address": "194 Nguyễn Tất Thành, Phường 13, Quận 4,TPHCM"
+  },
+  {
+    "name": "Quận 5",
+    "address": "468 Đ. Nguyễn Trãi, Phường 8, Quận 5, TPHCM",
+    "nearest_address": "Chợ Kim Biên, Nguyễn Trãi, Phường 2, Quận 5, TPHCM"
+  },
+  {
+    "name": "Quận 6",
+    "address": "634Bis Đ. Phạm Văn Chí, Phường 8, Quận 6, TPHCM",
+    "nearest_address": "718bis Đ. Kinh Dương Vương, Phường 13, Quận 6, TPHCM"
+  },
+  {
+    "name": "Quận 7",
+    "address": "Cresent Mall, 101 Tôn Dật Tiên, Tân Phú, Quận 7, TPHCM",
+    "nearest_address": "RMIT University Vietnam, 702 Nguyễn Văn Linh, Tân Phong, Quận 7, TPHCM"
+  },
+  {
+    "name": "Quận 8",
+    "address": "Đại lộ Nguyễn Văn Linh, Khu Phố 6, Quận 8, TPHCM",
+    "nearest_address": "302 Đường Phạm Hùng, Phường 5, Quận 8, TPHCM"
+  },
+  {
+    "name": "Quận 9",
+    "address": "Trung tâm Hành chính Quận 9, Trường Lưu, Long Trường, Quận 9, TPHCM",
+    "nearest_address": "Công viên Long Trường, Long Trường, Quận 9, TPHCM"
+  },
+  {
+    "name": "Quận 10",
+    "address": "Bệnh viện Nhi đồng 1, 341, Su Vạn Hạnh, Phường 12, Quận 10, TPHCM",
+    "nearest_address": "268 Tô Hiến Thành, Phường 15, Quận 10, TPHCM"
+  },
+  {
+    "name": "Quận 11",
+    "address": "Công VIên nước Đầm Sen ,3 Hòa Bình, Phường 3, Quận 11, TPHCM",
+    "nearest_address": "Bệnh viện quận 11,Phường 8, Quận 11, TPHCM"
+  },
+  {
+    "name": "Quận 12",
+    "address": "TRường Cao Đẳng ĐIện Lực ,554 Hà Huy Giáp, Thạnh Lộc, Quận 12, TPHCM",
+    "nearest_address": "Chợ An Sương, Khu phố 1, Quận 12, TPHCM"
+  },
+  {
+    "name": "Quận Bình Tân",
+    "address": "AEON MALL Bình Tân, 01 đường số 17A, Khu phố 11, Bình Trị Đông B, Bình Tân, TPHCM",
+    "nearest_address": "791 Lê Trọng Tấn, Bình Hưng Hoà, Bình Tân, TPHCM"
+  },
+  {
+    "name": "Quận Bình Thạnh",
+    "address": "Công viên Văn Thánh, 48 Nguyễn Hữu Cảnh, Phường 22, Bình Thạnh, TPHCM",
+    "nearest_address": "Bệnh VIện Ung Bứu ,3 Nơ Trang Long, Phường 7, Bình Thạnh, TPHCM"
+  },
+  {
+    "name": "Quận Gò Vấp",
+    "address": "Công Viên Làng Hoa ,191 Đ. Lê Văn Thọ, Phường 8, Gò Vấp, TPHCM",
+    "nearest_address": "190 Quang Trung, Phường 10, Gò Vấp, TPHCM"
+  },
+  {
+    "name": "Quận Phú Nhuận",
+    "address": "17-19-21 D. Nguyễn Văn Trỗi, Phường 14, Phú Nhuận, TPHCM",
+    "nearest_address": "Chợ Phú Nhuận, 97 Nguyễn Trọng Tuyển, Phường 15, Phú Nhuận, TPHCM"
+  },
+  {
+    "name": "Quận Tân Bình",
+    "address": "Sân vận động Quân khu 7, 202 Hoàng Văn Thụ, Phường 9, Tân Bình, TPHCM",
+    "nearest_address": "Công viên Hoàng Văn Thụ,RM27+PQ9, Hoàng Văn Thụ, Phường 2, Tân Bình, TPHCM"
+  },
+  {
+    "name": "Quận Tân Phú",
+    "address": "30 Đ. Bờ Bao Tân Thắng, Sơn Kỳ, Tân Phú, TPHCM",
+    "nearest_address": "Asiana Plaza Tân Phú ,286 Đ. Vườn Lài, Phú Thọ Hoà, Tân Phú, TPHCM"
+  },
+  {
+    "name": "Quận Thủ Đức",
+    "address": "Đại học Khoa học Tự nhiên, Phường Linh Trung, Thành Phố Thủ Đức, TPHCM",
+    "nearest_address": "bệnh viện Thủ Đức ,29 Phú Châu, Tam Phú, thành phố Thủ Đức, TPHCM"
+  },
+  {
+    "name": "Huyện Hóc Môn",
+    "address": "Công viên Đá Nhật , 87/8p Xuân Thới Thượng, 6 Ấp Xuân Thới Đông, Xuan Thoi Dong 1, Hóc Môn, TPHCM",
+    "nearest_address": "189E Đặng Công Bỉnh, Xuân Thới Sơn, Hóc Môn, TPHCM"
+  },
+  {
+    "name": "Huyện Củ Chi",
+    "address": "Khu du lịch Tây Thành, TP.HCM, TL8, Phước Vĩnh An, Củ Chi, TPHCM",
+    "nearest_address": "2FJV+5VR, Khu Du Lịch sinh thái, Ấp Ngã Tư, Củ Chi, TPHCM"
+  },
+  {
+    "name": "Huyện Bình Chánh",
+    "address": "15 Đ. Võ Trần Chí, Tân Kiên, Bình Chánh, TPHCM",
+    "nearest_address": "Khu dân cư Việt Phú Garden, Bình Chánh, TPHCM"
+  },
+  {
+    "name": "Huyện Nhà Bè",
+    "address": "Gaming house SCVGFH, 154 tổ 7 Ấp 3, Hiệp Phước, Nhà Bè, TPHCM",
+    "nearest_address": "179A Đ. Nguyễn Hữu Thọ, Nhơn Đức, Nhà Bè, TPHCM"
+  },
+  {
+    "name": "Huyện Cần Giờ",
+    "address": "HR6H+8G9, Rừng Sác, Bình Khánh, Cần Giờ, TPHCM",
+    "nearest_address": "1541 Rừng Sác, An Thới Đông, Cần Giờ, TPHCM"
+  }
+]
